@@ -1,0 +1,13 @@
+站点域名
+www.yinhuadm.net
+
+获取加密的视频链接
+player.mcue.cc
+
+用于解析加密的视频链接
+yinhuadm.756798.xyz
+
+视频真实地址
+v.lzcdn27.com
+
+相关域名可以通过浏览器浏览网站抓包获取到。
