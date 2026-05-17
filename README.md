@@ -45,7 +45,7 @@
 对于AGE动漫的VIP播放源，尝试几次还是观看不了，那就切换其它非VIP源观看吧。  
   
 <img src="https://images2.imgbox.com/62/33/q9Yk9N8i_o.png" width="49%"><img src="https://images2.imgbox.com/d1/60/Eb4ClImk_o.png" width="49%">  
-<img src="https://images2.imgbox.com/69/29/Df9GvnaC_o.png" width="49%"><img src="https://images2.imgbox.com/cd/9e/cW70hhZ7_o.png" width="49%">
+<img src="https://images2.imgbox.com/69/29/Df9GvnaC_o.png" width="49%"><img src="https://images2.imgbox.com/cd/9e/cW70hhZ7_o.png" width="49%">  
   
 ##### 20260514
 1. 在"我的"新增观看动漫入口。
