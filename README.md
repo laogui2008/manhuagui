@@ -60,11 +60,11 @@ c. 樱花动漫源站点的搜索功能不好用，直接复制作品标题去�
 d. 樱花动漫观看动漫视频时，大概在5分钟，会有广告内容出现，时长大概20秒、30秒。这是站点视频源问题，它的视频都是嵌入了广告内容的。有一些长视频，在中间或者结尾，也有可能嵌入了广告内容。  
 e. AGE动漫的VIP播放源，大概率观看不了，网站有加密，js逆向不好搞。其它非VIP路线，视频源估计也是了嵌入了广告内容的。
   
-![](https://images2.imgbox.com/f4/2e/hi3esRV1_o.jpg) ![](https://images2.imgbox.com/00/83/cTDiMkfF_o.jpg)
+![](https://images2.imgbox.com/f4/2e/hi3esRV1_o.jpg)![](https://images2.imgbox.com/00/83/cTDiMkfF_o.jpg)
 ![](https://images2.imgbox.com/16/58/dpA0fmV4_o.jpg)
-![](https://images2.imgbox.com/c5/06/XyINvamf_o.jpg) ![](https://images2.imgbox.com/99/5a/bZRzcTBT_o.jpg) 
-![](https://images2.imgbox.com/92/f0/o3xG2p4k_o.jpg) ![](https://images2.imgbox.com/d5/0c/LqSnw14d_o.jpg) 
-![](https://images2.imgbox.com/c0/97/SLgPfy9U_o.jpg) ![](https://images2.imgbox.com/0a/d7/X3cUhKpz_o.jpg) 
+![](https://images2.imgbox.com/c5/06/XyINvamf_o.jpg)![](https://images2.imgbox.com/99/5a/bZRzcTBT_o.jpg) 
+![](https://images2.imgbox.com/92/f0/o3xG2p4k_o.jpg)![](https://images2.imgbox.com/d5/0c/LqSnw14d_o.jpg) 
+![](https://images2.imgbox.com/c0/97/SLgPfy9U_o.jpg)![](https://images2.imgbox.com/0a/d7/X3cUhKpz_o.jpg) 
     
 ##### 20260502
 1. 整合拷贝漫画，在设置里切换。
