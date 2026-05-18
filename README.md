@@ -38,13 +38,14 @@
 ### 更新记录  
 ##### 20260518
 1. 修改动漫详情中的“话集”分页方式，对几百集、上千集的操作友好一些，如：海贼王、名侦探柯南。
-2. AGE动漫详情增加“查看评论”。
+2. AGE动漫详情增加“查看评论”、“相关动画/推荐动画”。
 3. 樱花动漫增加了“今日更新”、“热榜”。
 
 说明：
 对于AGE动漫的VIP播放源，尝试几次还是观看不了，那就切换其它非VIP源观看吧。  
   
 <img src="https://images2.imgbox.com/62/33/q9Yk9N8i_o.png" width="49%"><img src="https://images2.imgbox.com/d1/60/Eb4ClImk_o.png" width="49%">  
+<img src="https://images2.imgbox.com/ef/71/oFJDImvD_o.png" width="49%">  
 <img src="https://images2.imgbox.com/69/29/Df9GvnaC_o.png" width="49%"><img src="https://images2.imgbox.com/cd/9e/cW70hhZ7_o.png" width="49%">  
   
 ##### 20260514
