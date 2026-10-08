@@ -15,6 +15,7 @@ v.lzcdn27.com
 拷贝漫画站点地址
 1、https://2026copy.com
 2、https://www.copy3000.com
+3、https://www.copy4000.com
 
 拷贝漫画接口服务地址
 1、https://api.2026copy.com
